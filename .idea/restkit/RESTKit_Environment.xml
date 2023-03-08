@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RESTKit_Environment">
+    <option name="currentEnv" value=".env.Development" />
+    <option name="envList">
+      <list>
+        <EnvList>
+          <option name="env" value=".env.Development" />
+          <option name="items">
+            <list />
+          </option>
+        </EnvList>
+      </list>
+    </option>
+    <option name="project" value="openFinance" />
+  </component>
+</project>
